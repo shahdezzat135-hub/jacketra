@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 18.5,
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 64.0,
+    "stock": 4
+  },
+  {
+    "id": 3,
+    "name": "27-inch Monitor",
+    "category": "Displays",
+    "price": 219.99,
+    "stock": 0
+  },
+  {
+    "id": 4,
+    "name": "USB-C Dock",
+    "category": "Accessories",
+    "price": 79.5,
+    "stock": 8
+  },
+  {
+    "id": 5,
+    "name": "Laptop Stand",
+    "category": "Office",
+    "price": 32.25,
+    "stock": 15
+  }
+]
